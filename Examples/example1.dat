@@ -1,0 +1,5 @@
+             Example 1 - Metric Multi Box Culvert
+             CODED BY : BRG                                          
+PROB  1 1500 x 900 Box Culvert w/.30 m Fill w/175 mm Slab and Walls
+SPECM        1 
+CULV 3 1.5 0.9 0.3             175  175  175  175

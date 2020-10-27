@@ -1,0 +1,5 @@
+             Example 2 - E80 Railroad Live Load, Multi Box Culvert
+             CODED BY : BRG 
+PROB  3 ~ 10 X 10 BOX CULVERT WITH 1 FT FILL (MC-10-3)
+SPECE5
+CULV 3 10. 10.  1.             9.5       8.0 

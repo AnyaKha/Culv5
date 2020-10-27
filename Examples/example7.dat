@@ -1,0 +1,6 @@
+             Example 7 - Multi-Box Culvert with Spring Support
+             CODED BY : BRG   
+PROB 3 ~ 10ft X 9ft Multi-Box Culvert w/29ft fill
+SPECE1       1
+SPRG       15000.00       15000.00
+CULV 310.0 9.0 29.0           Z16.0 16.0 14.0 14.0                            

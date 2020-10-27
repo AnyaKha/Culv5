@@ -1,0 +1,12 @@
+Examples Guide for CULV5 version 2.2, JULY 2012
+
+
+example1.dat: Multi-Box Culvert, Metric, 3 ~ 1500mm x 900mm with 0.30 m fill, HS20, Service Load output.
+example2.dat: Multi-Box Culvert, English, 3 ~ 10ft x 10 ft with 1 ft fill, E80, Load Factor output.
+example3.dat: Single Box Culvert, English, 8ft x 8ft with 1 ft fill, H20, Load Factor output.
+example4.dat: Single Box Culvert, English, 8ft x 8ft with 1 ft fill, HS20, Load Factor output.
+example5.dat: Single Box Culvert, English, 8ft x 8ft with 1 ft fill, HS25, Load Factor output.
+example6.dat: Multi-Box Culvert, Metric, 4 ~ 1500mm x 900mm with no fill, no live load, user input additional dead load, Service Load output.
+example7.dat: Multi-Box Culvert, English, 3 ~ 10ft x 9ft with 29ft fill, HS20, Spring support, Service Load output.
+example8.dat: Single Box Culvert, English, 6ft x 5ft, with 7" hanuches and 14 ft fill, HS20, Load Factor output.
+example9.dat: Single Box Culvert, English, 6ft x 5ft, with 7" hanuches and 14 ft fill, HS20, Load Factor output and full of water.

@@ -1,0 +1,6 @@
+             Example 6 - User Input Dead Load, Multi-Box Culvert (Metric)
+             CODED BY : BRG                                         
+PROB  1500 x 900 Multi-Box Culvert, no fill 
+SPECM9       1
+SPLD  10.  2. 1.0
+CULV 41.49 0.9 0.0               1    1   10   10  0.  1. 1.                 
